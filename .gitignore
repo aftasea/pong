@@ -1,0 +1,6 @@
+v15
+/ClassicPaddleGame/*.csproj
+/ClassicPaddleGame/*.sln
+/ClassicPaddleGame/obj/Debug
+/ClassicPaddleGame/Library
+/ClassicPaddleGame/UserSettings
